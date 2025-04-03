@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - 👨‍💻 My Linkedin: [https://www.linkedin.com/in/tongduydat/](https://www.linkedin.com/in/tongduydat/)
 
 ### Languages and Tools:
-[![My Skills](https://skillicons.dev/icons?i=anaconda,cpp)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,pytorch,tensorflow,anaconda,cpp)](https://skillicons.dev)
 
 ### Github Stats:
 
