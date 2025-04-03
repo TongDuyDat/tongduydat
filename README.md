@@ -30,7 +30,8 @@ Here are some ideas to get you started:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tongduydat&layout=compact&hide=makefile,c++&hide_border=true&&theme=tokyonight)](https://github.com/tongduydat)
 
 ### Published source code:
-
+### Contributions in the last year
+![TongDuyDat's GitHub Contributions](https://github-readme-activity-graph.vercel.app/graph?username=tongduydat&theme=tokyonight)
 
 ### Visitor Counter:
 
